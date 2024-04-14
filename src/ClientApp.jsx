@@ -7,5 +7,4 @@ hydrateRoot(
     <BrowserRouter>
         <App/>
     </BrowserRouter>,
-      document.getElementById('root'),
 )
